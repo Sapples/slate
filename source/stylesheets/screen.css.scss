@@ -74,7 +74,8 @@ html, body {
   // This is the logo at the top of the ToC
   .logo {
     display: block;
-    max-width: 100%;
+    max-width: 70%;
+    padding-left: 1em;
     margin-bottom: $logo-margin;
   }
 
@@ -621,7 +622,7 @@ html, body {
 
 .copy-clipboard {
   float: right;
-  fill: #9DAAB6;
+  fill: #ffffff;
   cursor: pointer;
   opacity: 0.4;
   height: 18px;
