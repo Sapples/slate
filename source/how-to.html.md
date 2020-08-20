@@ -1,7 +1,11 @@
 ---
-title: Home
+title: How to guides
 language_tabs:
+  - ruby: Ruby
+  - python: Python
 language_clients:
+  - ruby: ""
+  - python: ""
 toc_footers: []
 includes:
 search: true
@@ -10,37 +14,35 @@ headingLevel: 2
 
 ---
 
-# Iotics
+# How to guides
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eros
 tellus, vel blandit est finibus vel. In efficitur placerat nisi. Curabitur ac
 interdum mauris, non congue sapien. Sed et erat eget ligula dapibus sagittis.
 Sed mattis efficitur tellus at dapibus.
 
-### Introduction
+
+## Do a thing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eros
 tellus, vel blandit est finibus vel.
 
-<a href="../build/introduction.html">Start learning about Iotics</a>
-
-### Quick start
+## Do another thing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eros
 tellus, vel blandit est finibus vel.
 
-<a href="../build/quick-start.html">Get started today</a>
-
-### How to guides
+## Do a new thing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eros
 tellus, vel blandit est finibus vel.
 
-<a href="../build/how-to.html">Find in-depth guides on using Iotics</a>
-
-### API reference
+## Do another new thing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eros
 tellus, vel blandit est finibus vel.
 
-<a href="../build/api.html">Explore our API</a>
+## Do a new new thing
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eros
+tellus, vel blandit est finibus vel.

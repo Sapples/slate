@@ -1,5 +1,5 @@
 ---
-title: QAPI Services v1.0
+title: API reference
 language_tabs:
   - ruby: Ruby
   - python: Python
@@ -16,7 +16,7 @@ code_clipboard: true
 
 ---
 
-<h1 id="qapi-services">QAPI Services v1.0</h1>
+# API reference
 
 > Scroll down for code samples, example requests and responses. Select a language for code samples from the tabs above or the mobile navigation menu.
 

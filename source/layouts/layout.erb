@@ -82,12 +82,14 @@ under the License.
         <ul class="search-results"></ul>
       <% end %>
       <ul>
-          <li><a href="../build/index.html" class="toc-h1 toc-link">Index</a></li>
-          <li><a href="../build/test.html" class="toc-h1 toc-link">Test</a></li>
-          <li><a href="../build/api.html" class="toc-h1 toc-link">API</a></li>
+          <li><a href="../build/index.html" class="toc-h1 toc-link">Home</a></li>
+          <li><a href="../build/introduction.html" class="toc-h1 toc-link">Introduction</a></li>
+          <li><a href="../build/quick-start.html" class="toc-h1 toc-link">Quick start</a></li>
+          <li><a href="../build/how-to.html" class="toc-h1 toc-link">How to guides</a></li>
+          <li><a href="../build/api.html" class="toc-h1 toc-link">API reference</a></li>
         </ul>
         <hr>
-        <p style="color:white; padding-left:0.5em;"><b>Current section:</b></p>
+        <p style="color:white; padding-left:0.5em;"><b><script>document.write(document.title)</script>:</b></p>
       <ul id="toc" class="toc-list-h1">
         <% toc_data(page_content).each do |h1| %>
           <li>
