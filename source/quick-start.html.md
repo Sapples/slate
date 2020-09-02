@@ -14,10 +14,13 @@ headingLevel: 2
 
 ---
 
-# Quick start
+# Introduction
+
+&nbsp;
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eros
-tellus, vel blandit est finibus vel.
+tellus, vel blandit est finibus vel. In efficitur placerat nisi. Curabitur ac
+interdum mauris, non congue sapien.
 
 ## Prerequisites
 
